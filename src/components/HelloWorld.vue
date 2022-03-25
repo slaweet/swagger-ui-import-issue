@@ -32,6 +32,9 @@
 </template>
 
 <script>
+
+import SwaggerUI from 'swagger-ui'; 
+
 export default {
   name: 'HelloWorld',
   props: {
