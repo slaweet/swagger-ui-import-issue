@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "swagger-ui": "4.8.1",
+    "swagger-ui": "^4.8.1",
     "vue": "^2.6.11"
   },
   "devDependencies": {
