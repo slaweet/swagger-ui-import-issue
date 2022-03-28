@@ -9678,9 +9678,9 @@ swagger-client@^3.18.4:
     url "~0.11.0"
 
 swagger-ui@^4.8.1:
-  version "4.9.0"
-  resolved "https://registry.yarnpkg.com/swagger-ui/-/swagger-ui-4.9.0.tgz#6800c3e49c9f0c7275e8c6787e6a2dfcee849ad3"
-  integrity sha512-+ZzuIsXq8OIG2w9TjOI7znZGaCrT0wEe2v6FrgCJ9tmGWteL1qWjo2kCQBFrQynwN9+nrg3p/+HtNoyuJDMhtA==
+  version "4.10.0"
+  resolved "https://registry.yarnpkg.com/swagger-ui/-/swagger-ui-4.10.0.tgz#b18018da2b46ce2a4014753b3a41b6e24871481e"
+  integrity sha512-myK0txRiX2XE8+dcJMF8kHMqITk4h0MplHL/nEjviy8wLTG/LnPL1ByUTNYuBs2T1waR12quz/j7uxk3HnEZjA==
   dependencies:
     "@babel/runtime-corejs3" "^7.16.8"
     "@braintree/sanitize-url" "=6.0.0"
